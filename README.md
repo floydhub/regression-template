@@ -8,12 +8,12 @@ In this notebook, we will build a classifier to correctly predict the price of a
 
 ![regression](images/wineprice.png)
 
-We will use the Kaggle's Wine Reviews dataset for training our model. The dataset contains 10 columns and 150k rows of wine reviews.
+We will use the [Kaggle's Wine Reviews](https://www.kaggle.com/zynicide/wine-reviews) dataset for training our model. The dataset contains 10 columns and 150k rows of wine reviews.
 
 ![regression](images/dataset.png)
 
 We will:
 - Preprocess text data for NLP
-- Build and train a Wide & Deep model using Keras and Tensorflow
+- Build and train a [Wide & Deep model](https://ai.googleblog.com/2016/06/wide-deep-learning-better-together-with.html) using Keras and Tensorflow
 - Evaluate our model on the test set
 - Run the model on your own movie reviews!
