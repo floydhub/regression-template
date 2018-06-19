@@ -4,7 +4,7 @@ Predicting the price of an object given the historical data is one of the most c
 
 ### Try it now
 
-[![Run on FloydHub](https://s3-us-west-2.amazonaws.com/floydhub-assets/button/button.svg)](https://floydhub.com/run?template=https://github.com/floydhub/regression-template)
+[![Run on FloydHub](https://static.floydhub.com/button/button.svg)](https://floydhub.com/run?template=https://github.com/floydhub/regression-template)
 
 Click this button to open a Workspace on FloydHub that will train this model.
 
